@@ -1,0 +1,17 @@
+{
+	"arrowParens": "always",
+	"printWidth": 300,
+	"singleQuote": true,
+	"tabWidth": 4,
+	"useTabs": true,
+	"trailingComma": "es5",
+	"overrides": [
+		{
+			"files": ["*.html"],
+			"options": {
+				"tabWidth": 4,
+				"useTabs": true
+			}
+		}
+	]
+}

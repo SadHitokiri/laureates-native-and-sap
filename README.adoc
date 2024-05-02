@@ -1,0 +1,26 @@
+= JS Internship & Training @ Emerng. Task 1 Template.
+
+https://wiki.emergn.com/pages/viewpage.action?spaceKey=RSL&title=JavaScript+training+plan 
+
+== Contributing
+
+=== Requirements
+
+1. Node.js === 18.x.x 
+2. npm === 9.x.x
+
+=== Setup
+All operations should be done from repository root directory
+[source,shell]
+----
+npm install
+----
+
+=== Start
+Run script to start server available on http://localhost:3000 
+
+[source,shell]
+-----------------
+npm run start
+-----------------
+It will serve client files as static resources available on /client/native and /client/ui5 and REST API endpoints available through /api 
