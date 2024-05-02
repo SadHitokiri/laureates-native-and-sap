@@ -1,6 +1,4 @@
-= JS Internship & Training @ Emerng. Task 1 Template.
-
-https://wiki.emergn.com/pages/viewpage.action?spaceKey=RSL&title=JavaScript+training+plan 
+= JS Training
 
 == Contributing
 
